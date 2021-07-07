@@ -8,9 +8,22 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
     "core-js": "^3.6.5",
+    "firebase": "^8.7.0",
+    "form-data": "^4.0.0",
+    "jquery": "^3.6.0",
+    "moment-timezone": "^0.5.33",
+    "popper.js": "^1.16.1",
+    "socket.io": "^4.1.2",
+    "socket.io-client": "^4.1.2",
+    "vee-validate": "^2.2.15",
     "vue": "^2.6.11",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.2.0",
+    "vue-socket.io": "^3.0.10",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
